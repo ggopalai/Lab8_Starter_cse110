@@ -6,4 +6,6 @@
 
 External link to [Google](https://www.google.com)
 
-# Sup
+# Sup 
+
+Relative link to [Lab 8](./index.md)
