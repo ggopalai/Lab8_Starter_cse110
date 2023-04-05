@@ -8,4 +8,4 @@ External link to [Google](https://www.google.com)
 
 # Sup 
 
-Relative link to [Lab 8](./index.html)
+Relative link to [Lab 8](./pics/cat.jpg)
